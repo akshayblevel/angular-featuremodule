@@ -4,7 +4,7 @@ import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { WelcomeComponentComponent } from './welcome-component/welcome-component.component';
-import { EmployeeModule } from './employee-component/employee/employee.module';
+import { EmployeeModule } from './employee-component/employee.module';
 
 @NgModule({
   imports: [
